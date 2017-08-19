@@ -23,3 +23,12 @@ Views
   - search.jsp
   - home.jsp
   
+Service Classes
+  - ManagerService.java
+  - ManagerServiceImpl.java
+  
+DAO Classes
+  - ManagerDao.java
+  - ManagerDaoImpl.java
+ 
+Project Structure Guide:<br>http://websystique.com/springmvc/spring-4-mvc-and-hibernate4-integration-example-using-annotations/
